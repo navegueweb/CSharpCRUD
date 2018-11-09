@@ -18,6 +18,4 @@ Propriedades da classe:
 ## Classes CRUD
 Parte principal desse conjunto. Possui alguns métodos que serão usados pelas outras demais. Herda o conteúdo da classe Connection.
 
-Métodos e propriedades da classe:
-- Table() - Propriedade que armazena e retorna o nome da tabela que será usada.
-- LastPrimaryKey  - Propriedade que armazena o último ID (PrimaryKey) armazenado.
+(Ainda falta escrever a documentação)
